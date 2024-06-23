@@ -46,7 +46,7 @@ lvl_life_frame.place(x=0, y=120)
 lvl_life_lable = Label(lvl_life_frame, text="low", font=("Arial", 16, "bold"), bg="#0493ba", fg="#800112", height=3, width=5)
 lvl_life_lable.pack(side=RIGHT)
 
-lvl_life_lable2 = Label(lvl_life_frame, text='Уровень жизни муровьёв', font=("Arial", 16, "bold"), bg="#126278", fg="white", height=3, width=25)
+lvl_life_lable2 = Label(lvl_life_frame, text='Уровень жизни муравьёв', font=("Arial", 16, "bold"), bg="#126278", fg="white", height=3, width=25)
 lvl_life_lable2.pack(side=LEFT)
 
 
@@ -56,7 +56,7 @@ LVL_ANTHILL_frame.place(x=0, y=240)
 lvl_ant_lable = Label(LVL_ANTHILL_frame, text="0", font=("Arial", 20, "bold"), bg="#6e0519", fg="white", height=3, width=4)
 lvl_ant_lable.pack(side=RIGHT)
 
-lvl_ant_lable2 = Label(LVL_ANTHILL_frame, text='LVL муровейника', font=("Arial", 16, "bold"), bg="#e30505", fg="#f3f2f7", height=3, width=20)
+lvl_ant_lable2 = Label(LVL_ANTHILL_frame, text='LVL муравейника', font=("Arial", 16, "bold"), bg="#e30505", fg="#f3f2f7", height=3, width=20)
 lvl_ant_lable2.pack(side=LEFT)
 
 
